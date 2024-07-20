@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+tqdm
+transformers
+nltk
+opencv-python
+matplotlib
+numpy
